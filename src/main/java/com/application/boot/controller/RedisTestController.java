@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @desc redis 集群测试.
  * @author 孤狼
+ * @url http://localhost:8080/redistest/redis/testdata
  */
 @RestController
 @RequestMapping("/redis")
